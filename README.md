@@ -5,4 +5,4 @@
 # Summary
 #### This repository contains all of the notes taken by Yishan for the lighthouse labs web development bootcamp.
 
-...taken by Yishan (https://github.com/sarah-zhan) for this project.
+...taken by [Yishan](https://github.com/sarah-zhan) for this project.
