@@ -6,3 +6,7 @@
 #### This repository contains all of the notes taken by Yishan for the lighthouse labs web development bootcamp.
 
 ...taken by [Yishan](https://github.com/sarah-zhan) for this project.
+
+# Table of Content
+* [Week 1](/lighthouse-web-notes/Week_1)
+  * [Day 1](/lighthouse-web-notes/Week_1/Day_1/)
